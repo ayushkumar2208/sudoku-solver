@@ -1,0 +1,54 @@
+# Compiled Object Files
+*.o
+*.obj
+
+# Compiled Executables
+*.exe
+sudoku
+sudoku.exe
+a.out
+
+# IDE Specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+
+# Visual Studio Files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+
+# Code::Blocks Files
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
+
+# Dev-C++ Files
+*.dev
+Makefile.win
+
+# Mac Files
+.DS_Store
+
+# Linux Files
+.QtCreator.user
+
+# System Files
+Thumbs.db
+*.log
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Solution Files (Optional - Keep Or Remove)
+# solution.txt
